@@ -1,4 +1,3 @@
-
 package proyecto2;
 
 import java.awt.Color;
@@ -14,6 +13,7 @@ import javax.swing.JOptionPane;
  *
  * @author Fernando Gerardo Flores García
  */
+//Comentando
 public class AgendaInterfaz extends javax.swing.JFrame{
     private boolean mueve;
     private boolean dimension;
